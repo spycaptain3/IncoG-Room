@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 # IncoG-Room
 
@@ -50,6 +50,5 @@ struct K {
 
 ```
 I thank Dr. Angela yu for this great session on Flash-Chat making app, I learned over their and complete this project successfully. 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+
