@@ -25,30 +25,7 @@ IncoG-Room is an internet based messaging app similar to WhatsApp but you can't 
 * How to create direct Segues for navigation.
 
 
-# Constants
 ```
-struct K {
-    static let cellIdentifier = "ReusableCell"
-    static let cellNibName = "MessageCell"
-    static let registerSegue = "RegisterToChat"
-    static let loginSegue = "LoginToChat"
-    
-    struct BrandColors {
-        static let purple = "BrandPurple"
-        static let lightPurple = "BrandLightPurple"
-        static let blue = "BrandBlue"
-        static let lighBlue = "BrandLightBlue"
-    }
-    
-    struct FStore {
-        static let collectionName = "messages"
-        static let senderField = "sender"
-        static let bodyField = "body"
-        static let dateField = "date"
-    }
-}
-
-```
-I thank Dr. Angela yu for this great session on Flash-Chat making app, I learned over their and complete this project successfully. 
+I thank Dr. Angela yu for great session on iOS Development. I learned over their and complete this project successfully. 
 
 
